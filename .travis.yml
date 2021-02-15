@@ -18,5 +18,5 @@ after_success:
   # push images to docker hub
   - docker push sbhasale/multi-client
   - docker push sbhasale/multi-nginx
-  - docker push sbhasle/multi-server
+  - docker push sbhasale/multi-server
   - docker push sbhasale/multi-worker
